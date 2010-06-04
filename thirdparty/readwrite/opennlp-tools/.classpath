@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="java"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="/home/parag/nlp/opennlp/thirdparty/readwrite/opennlp-tools/lib/maxent-2.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/parag/nlp/opennlp/thirdparty/readwrite/opennlp-tools/lib/trove.jar"/>
+	<classpathentry kind="lib" path="/home/parag/nlp/opennlp/thirdparty/readwrite/opennlp-tools/lib/jwnl-1.3.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

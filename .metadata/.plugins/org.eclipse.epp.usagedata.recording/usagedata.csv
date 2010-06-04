@@ -1,0 +1,17 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,"org.eclipse.jst.j2ee.ejb.annotations.xdoclet",1275632321632
+stopped,bundle,org.eclipse.jst.server.generic.jboss,1.6.1.v200904151730,"org.eclipse.jst.server.generic.jboss",1275632321668
+stopped,bundle,org.eclipse.jst.server.generic.jonas,1.5.205.v200805140145,"org.eclipse.jst.server.generic.jonas",1275632321687
+stopped,bundle,org.eclipse.jst.server.generic.oc4j,1.5.206.v20090812,"org.eclipse.jst.server.generic.oc4j",1275632321700
+stopped,bundle,org.eclipse.jst.server.websphere.core,1.0.302.v20080620,"org.eclipse.jst.server.websphere.core",1275632321703
+stopped,bundle,com.yourkit.profiler,8.0.4126,"com.yourkit.profiler",1275632321703
+stopped,bundle,org.eclipse.jst.server.generic.ui,1.0.405.v200905022002,"org.eclipse.jst.server.generic.ui",1275632321711
+stopped,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1275632321712
+stopped,bundle,org.eclipse.jst.server.tomcat.ui,1.1.102.v20090424,"org.eclipse.jst.server.tomcat.ui",1275632321715
+stopped,bundle,org.eclipse.jst.server.ui,1.1.0.v20090421,"org.eclipse.jst.server.ui",1275632321729
+stopped,bundle,org.eclipse.wst.xsl.jaxp.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.jaxp.debug.ui",1275632321731
+stopped,bundle,org.eclipse.jst.server.generic.core,1.0.506.v20090817,"org.eclipse.jst.server.generic.core",1275632321746
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.3.2.v20100222-0100-e3x,"org.eclipse.mylyn.ide.ant",1275632321761
+stopped,bundle,org.eclipse.datatools.connectivity.oda.template.ui,3.2.0.v200906020553,"org.eclipse.datatools.connectivity.oda.template.ui",1275632321782
+stopped,bundle,org.eclipse.pde.runtime,3.4.100.v20090731,"org.eclipse.pde.runtime",1275632321788
+stopped,bundle,org.eclipse.pde.ua.ui,1.0.0.v20090511,"org.eclipse.pde.ua.ui",1275632321839
